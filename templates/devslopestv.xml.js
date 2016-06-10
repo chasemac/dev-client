@@ -3,7 +3,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <head>
     <style>
     .main {
-        background-color: #2196F3;
+        background-color: #FFFFFF;
     }
 </style>
 </head>
